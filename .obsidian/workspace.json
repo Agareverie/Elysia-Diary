@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "afcf76520cb0f82f",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d3a8048e36f828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63212bca90ec38a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-12-13.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-13"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c963da4765a98a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "d613282ba6a0a86e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da2ccf1add65d73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d1b6762c8e4feb8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5609229c1bc68453",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "2b4fd3857fa40dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a07a1284b9cda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37afc7de07dd349e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "63212bca90ec38a7",
+  "lastOpenFiles": [
+    "2024-12-12.md",
+    "2024-12-13.md",
+    "2024-12-11.md",
+    "Java Diary.md",
+    "Hello World.md"
+  ]
+}
